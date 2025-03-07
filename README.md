@@ -1,9 +1,9 @@
 ## Overview
 
 
-BlueMQ is in-memory publish-subscribe messaging system written in Go, which can provides instant event notification for distributed systems. Supports push-based systems where publisher distributes messages to all subscribers when an event occurs.
+GoPulseMQ is in-memory publish-subscribe messaging system written in Go, which can provides instant event notification for distributed systems. Supports push-based systems where publisher distributes messages to all subscribers when an event occurs.
 
-BlueMQ is designed as an in-memory database for low-latency data transfer between applications.
+GoPulseMQ is designed as an in-memory database for low-latency data transfer between applications.
 
 ## Architecture
 
